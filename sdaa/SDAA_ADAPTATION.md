@@ -9,7 +9,7 @@
 | 项目 | 值 |
 |------|-----|
 | 架构 | loongarch64（Loongnix Server 23.1，龙芯 3A6000，128 核）|
-| 机器 | `sunhn@10.71.13.47`，容器 `tuyi_test` |
+| 机器 | `10.71.13.47`，容器 `tuyi_test` |
 | 分支 | `main`（未切 adapt/sdaa）|
 | cmake / gcc | 3.26.3 / 12.3.0 |
 
